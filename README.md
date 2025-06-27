@@ -13,19 +13,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72F&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+I'm+Satyam+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
-</div>
-
-```javascript
-const skills = {
-  languages: ["JavaScript", "Python", "Java"],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "Flask"],
-  tools: ["Git", "Docker", "VS Code"],
-  learning: ["AWS", "GraphQL", "TypeScript"]
-};
-```
-
-<div align="center">
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=satyamdarade007&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
