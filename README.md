@@ -50,9 +50,19 @@ Coming soon! I'm currently working on some exciting projects that I'll be sharin
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-darade007/ "Connect on LinkedIn"){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_@the_leOcious-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/the_leOcious?t=GbGcWUj8iBkEQ6Gnoq9iAw&s=09 "Follow on Twitter"){:target="_blank"}
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:satyamd353@gmail.com "Send me an email"){:target="_blank"}
+<div align="center">
+  <a href="https://www.linkedin.com/in/satyam-darade007/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://x.com/the_leOcious?t=GbGcWUj8iBkEQ6Gnoq9iAw&s=09" target="_blank" title="Follow on Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  
+  <a href="mailto:satyamd353@gmail.com" target="_blank" title="Send me an email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
