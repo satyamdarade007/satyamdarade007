@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Run at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  # Allow manual runs
+  workflow_dispatch:
+  # Run when pushing to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: satyamdarade007
+          # Optional: Configure the output path
+          svg_out_path: ./assets/github-snake.svg
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: assets
+          branch: output
+          clean: false
+          repository-name: satyamdarade007/satyamdarade007
+          token: ${{ secrets.GITHUB_TOKEN }}

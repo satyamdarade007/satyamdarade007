@@ -11,7 +11,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ## 🐍 GitHub Snake Animation
 
-![Snake animation](https://github.com/satyamdarade007/satyamdarade007/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/satyamdarade007/satyamdarade007/output/github-contribution-grid-snake.svg)
 
 ## 🤖 Fun Fact
 
