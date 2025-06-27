@@ -9,9 +9,15 @@ I'm a passionate developer who loves building innovative solutions and contribut
 - 🛠️ Tools: Git, VS Code, Docker
 - 🎨 Design: Figma, Adobe XD
 
-## 📊 GitHub Stats
+## 🤖 Fun Fact
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamdarade007&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
+</div>
+
+## 🚀 Featured Projects
+
+Coming soon! I'm currently working on some exciting projects that I'll be sharing here soon. Stay tuned!
 
 ## 📫 Let's Connect
 
