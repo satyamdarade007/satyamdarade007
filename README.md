@@ -50,9 +50,9 @@ Coming soon! I'm currently working on some exciting projects that I'll be sharin
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-darade007/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_@the_leOcious-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/the_leOcious?t=GbGcWUj8iBkEQ6Gnoq9iAw&s=09)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:satyamd353@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-darade007/ "Connect on LinkedIn"){:target="_blank"}
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_@the_leOcious-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/the_leOcious?t=GbGcWUj8iBkEQ6Gnoq9iAw&s=09 "Follow on Twitter"){:target="_blank"}
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:satyamd353@gmail.com "Send me an email"){:target="_blank"}
 
 ---
 
