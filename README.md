@@ -9,16 +9,37 @@ I'm a passionate developer who loves building innovative solutions and contribut
 - 🛠️ Tools: Git, VS Code, Docker
 - 🎨 Design: Figma, Adobe XD
 
-## 🐍 GitHub Snake Animation
+## 🎯 About Me
 
+```javascript
+const satyam = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "Python", "Java", "HTML/CSS"],
+  askMeAbout: ["web dev", "tech", "photography", "music"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "jQuery"],
+      css: ["Tailwind", "Bootstrap", "Material-UI"]
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+      python: ["Flask", "Django"]
+    },
+    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    devOps: ["Docker", "Git", "GitHub Actions"],
+    misc: ["Firebase", "AWS", "Heroku"]
+  },
+  currentFocus: "Building awesome web applications",
+  funFact: "There are only two hard things in Computer Science: cache invalidation and naming things"
+};
 ```
-🐍
-```
 
-*The snake will appear here after the GitHub Action runs and generates the animation.*
+## 🚀 Daily Coding Stats
 
-<!-- This is a comment - the snake animation will be added by the GitHub Action -->
-![Snake animation](https://github.com/satyamdarade007/satyamdarade007/blob/output/github-contribution-grid-snake.svg)
+<!-- GitHub Stats Card -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamdarade007&theme=radical" alt="satyamdarade007's GitHub Stats" />
+</div>
 
 ## 🤖 Fun Fact
 
