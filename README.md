@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Satyam
+# 👋 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚! 𝙄'𝙢 𝙎𝙖𝙩𝙮𝙖𝙢
 
 I'm a passionate developer who loves building innovative solutions and contributing to open source. Welcome to my GitHub profile!
 
@@ -31,11 +31,22 @@ I'm a passionate developer who loves building innovative solutions and contribut
   <img src="https://komarev.com/ghpvc/?username=satyamdarade007&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-## 🚀 Daily Coding Stats
+## 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamdarade007&theme=radical" alt="satyamdarade007's GitHub Stats" />
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamdarade007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="satyamdarade007's GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamdarade007&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=satyamdarade007&theme=radical" alt="GitHub Streak" />
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=satyamdarade007&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" />
+  
 </div>
 
 ## 🤖 Fun Fact
