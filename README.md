@@ -35,17 +35,15 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamdarade007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="satyamdarade007's GitHub Stats" />
+  
   
   <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamdarade007&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   
   <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=satyamdarade007&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamdarade007&theme=radical" alt="GitHub Streak" />
   
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=satyamdarade007&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" />
+ 
   
 </div>
 
