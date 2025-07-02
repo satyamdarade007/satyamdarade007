@@ -50,7 +50,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
   
   ### 🎨 Featured Project
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=satyamdarade007&repo=your-repo-name&theme=radical)](https://github.com/satyamdarade007/your-repo-name)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=satyamdarade007&repo=Customer_Segmentation_Data_Analysis&theme=radical)](https://github.com/satyamdarade007/Customer_Segmentation_Data_Analysis)
   
 </div>
 
