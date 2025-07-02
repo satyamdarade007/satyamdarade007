@@ -23,39 +23,46 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-## 🎯 About Me
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72F&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+I'm+Satyam+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=satyamdarade007&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
-## 📊 GitHub Stats
+## 🎯 My Coding Journey
 
 <div align="center">
   
+  ### 🛠️ Current Focus
   
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamdarade007&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  ### 📚 Learning
   
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamdarade007&theme=radical" alt="GitHub Streak" />
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
   
- 
+  ### 📊 Weekly Development Breakdown
+  
+  ```text
+  🎯 Current Focus: Web Development
+  🌱 Learning:    TypeScript, Docker, AWS
+  🔭 Exploring:   Cloud Architecture
+  ✨ Next Goal:   Contribute to Open Source
+  ```
+  
+  ### 🎨 Featured Project
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=satyamdarade007&repo=your-repo-name&theme=radical)](https://github.com/satyamdarade007/your-repo-name)
   
 </div>
+
+## 🚀 Featured Projects
+
+Coming soon! I'm currently working on some exciting projects that I'll be sharing here soon. Stay tuned!
 
 ## 🤖 Fun Fact
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
 </div>
-
-## 🚀 Featured Projects
-
-Coming soon! I'm currently working on some exciting projects that I'll be sharing here soon. Stay tuned!
 
 ## 📫 Let's Connect
 
