@@ -93,13 +93,9 @@ I’m always up for a chat about tech, open source, or just a good coding meme! 
 
 ## 🌟 Support My Work
 
-If you like what I do, give my repos a ⭐ or buy me a coffee to keep the coding vibes going!
+If you like what I do, give my repos a ⭐ or follow me to keep the coding vibes going!
 
-<div align="center">
-  <a href="https://buymeacoffee.com/satyamdarade007" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
-</div>
+
 
 ---
 
