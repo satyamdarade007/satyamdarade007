@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="20">
+<defs>
+<linearGradient id="g" x1="0%" x2="100%">
+<stop offset="0%" stop-color="#2563EB"/>
+<stop offset="50%" stop-color="#06B6D4"/>
+<stop offset="100%" stop-color="#8B5CF6"/>
+</linearGradient>
+</defs>
+
+<rect width="1200" height="4" y="8" fill="url(#g)">
+<animate attributeName="opacity"
+values="0.4;1;0.4"
+dur="3s"
+repeatCount="indefinite"/>
+</rect>
+
+</svg>
